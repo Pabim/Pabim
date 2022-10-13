@@ -1,5 +1,7 @@
 This is a list of all 3 letter and number names on polytoria that havent been claimed. hopefully you can put this to use as i scraped all of this for fun lol
 
+Updated list as of 13/10/2022
+
 aac
 aad
 aae
